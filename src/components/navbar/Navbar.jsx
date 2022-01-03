@@ -49,7 +49,10 @@ function Navbar() {
           />
         )}
         {toggleMenu && (
-          <div className='gpt3__navbar-menu_container scale-up-center'>
+          <div
+            onClick={() => setToggleMenu(false)}
+            className='gpt3__navbar-menu_container scale-up-center'
+          >
             <div className='gpt3__navbar-menu_container-links'>
               <p>
                 <a href='#home'>Home</a>
