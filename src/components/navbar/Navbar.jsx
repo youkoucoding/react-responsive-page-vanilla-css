@@ -17,7 +17,7 @@ function Navbar() {
             <a href='#Home'>Home</a>
           </p>
           <p>
-            <a href='#wgtp3'>What is GPT3?</a>
+            <a href='#wgpt3'>What is GPT3?</a>
           </p>
           <p>
             <a href='#possibility'>Open AI</a>
