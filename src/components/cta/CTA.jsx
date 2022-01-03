@@ -1,4 +1,3 @@
-import * as React from 'react';
 import './cta.css';
 
 function CTA() {

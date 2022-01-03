@@ -1,4 +1,3 @@
-import * as React from 'react';
 import './feature.css';
 
 function Feature() {

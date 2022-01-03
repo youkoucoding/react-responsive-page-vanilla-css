@@ -1,4 +1,3 @@
-import * as React from 'react';
 import './possibility.css';
 
 function Possibility() {

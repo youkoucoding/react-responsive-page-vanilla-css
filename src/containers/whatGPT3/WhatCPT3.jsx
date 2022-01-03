@@ -1,4 +1,3 @@
-import * as React from 'react';
 import './whatGPT3.css';
 
 function WhatGPT3() {
